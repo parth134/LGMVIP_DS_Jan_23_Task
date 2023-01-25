@@ -39,10 +39,7 @@ We can use this module by including below:
 ```python
 import matplotlib.pyplot as plt
 ```
-## Datasetlink watch tutorial from here:
--> [Link1](https://youtu.be/CBCfOTePVPo)
 
--> [Link2](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 ## Contributing
 
