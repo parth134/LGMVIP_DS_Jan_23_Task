@@ -4,7 +4,7 @@
 Turn an image into a pencil sketch.
 
 #### Dependencies: 
-Python3, NumPy, SciPy, Matplotlib, imageio.
+Python3, NumPy, cv2, Matplotlib.
 
 ## Description: 
 
@@ -24,11 +24,11 @@ from numpy as np
 ```
 
 
-#### b) SciPy :
+#### b) cv2 :
 
 We can use this module by including below:
 ```python
-from scipy import special
+import cv2
 ```
 #### c) Matplotlib :
 
@@ -36,12 +36,7 @@ We can use this module by including below:
 ```python
 import matplotlib.pyplot as plt
 ```
-#### d) Imageio :
 
-We can use this module by including below:
-```python
-import imageio
-```
 
 ## Contributing
 
