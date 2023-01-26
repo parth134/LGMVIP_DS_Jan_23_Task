@@ -37,10 +37,6 @@ from sklearn.tree import DecisionTreeClassifier
 ```
 
 ```python
-from sklearn.datasets import load_iris
-```
-
-```python
 from sklearn.metrics import confusion_matrix,accuracy_score,classification_report
 
 ```
@@ -71,6 +67,10 @@ We can use this module by including below:
 
 ```python
 import seaborn as sns
+```
+
+```python
+from seaborn import load_dataset
 ```
 
 ## Contributing
